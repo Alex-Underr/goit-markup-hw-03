@@ -103,14 +103,18 @@ margin-left: 50px;
 
 
 .site-nav .current a{color: var(--accent-color);}
-.studio-title h1{font-weight: 900;
+
+.studio-title h1{
 font-size: 44px;
 line-height: 1.36;
 text-transform: uppercase;
 color: var(--primary-white-color);
 margin-top: 0;
 margin-bottom: 0;
-padding-top: 200px;}
+padding-top: 200px;
+margin-left: auto;
+margin-right: auto;
+width: 696px;}
 
 .studio-title{
     text-align: center;
